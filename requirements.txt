@@ -1,7 +1,7 @@
 gunicorn==19.9.0
+MarkupSafe>=2.0.0rc2
 itsdangerous==1.1.0
 Jinja2==3.0.0
-MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
 scipy>=0.15.1
